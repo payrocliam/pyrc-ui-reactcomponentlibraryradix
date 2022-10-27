@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "lib": ["dom", "es2021"],
+    "target": "es2021",
+    "strict": true
+  }
+}
