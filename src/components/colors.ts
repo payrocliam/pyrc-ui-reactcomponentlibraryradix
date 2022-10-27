@@ -3,4 +3,5 @@ export default {
   darkTangerine: "#e15904",
   midnightSky: "#191c26",
   darkNavy: "#222734",
+  violet: "#7b61ff",
 }
