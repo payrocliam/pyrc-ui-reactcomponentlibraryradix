@@ -8,7 +8,7 @@ export const Heading1 = styled.h1`
   font-size: 4rem;
   font-weight: 500;
   line-height: 4.5rem;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
 `
 
 export const Heading2 = styled.h2`
@@ -16,7 +16,7 @@ export const Heading2 = styled.h2`
   font-size: 3rem;
   font-weight: 500;
   line-height: 3.5rem;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
 `
 
 export const Heading3 = styled.h3`
@@ -24,7 +24,7 @@ export const Heading3 = styled.h3`
   font-size: 2rem;
   font-weight: 500;
   line-height: 2.5rem;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
 `
 
 export const Heading4 = styled.h4`
@@ -32,7 +32,7 @@ export const Heading4 = styled.h4`
   font-size: 1.5rem;
   font-weight: 500;
   line-height: 2rem;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
 `
 
 export const Heading5 = styled.h5`
@@ -40,7 +40,7 @@ export const Heading5 = styled.h5`
   font-size: 1.125rem;
   font-weight: 500;
   line-height: 1.5rem;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
 `
 
 export const Subtitle = styled.p`
@@ -50,7 +50,7 @@ export const Subtitle = styled.p`
   font-weight: 500;
   letter-spacing: 0.3rem;
   line-height: 1.5rem;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
   text-transform: uppercase;
 `
 
@@ -59,5 +59,5 @@ export const Paragraph = styled.p`
   font-size: 1.125rem;
   font-weight: 300;
   line-height: 1.5rem;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem 0;
 `
