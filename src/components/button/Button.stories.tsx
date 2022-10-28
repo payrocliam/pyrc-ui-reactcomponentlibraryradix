@@ -8,9 +8,9 @@ export default {
   component: Button,
   argTypes: {
     color: {
+      options: ["primary", "secondary", "transparent"],
       control: {
         type: "select",
-        options: ["primary", "secondary", "transparent"],
       },
     },
   },

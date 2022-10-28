@@ -8,6 +8,7 @@ export const Button = styled.button<ButtonProps>`
   border-width: 2px;
   border-style: solid;
   border-radius: 0.375rem;
+  cursor: pointer;
   padding: 0.5rem 1.5rem;
   font-family: ${fonts.rocGrotesk}, ui-sans-serif, sans-serif;
   font-size: 1rem;

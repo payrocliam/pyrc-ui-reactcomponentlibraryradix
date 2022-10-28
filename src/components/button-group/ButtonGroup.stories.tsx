@@ -9,9 +9,9 @@ export default {
   component: ButtonGroup,
   argTypes: {
     align: {
+      options: ["start", "center", "end"],
       control: {
         type: "select",
-        options: ["start", "center", "end"],
       },
     },
   },
