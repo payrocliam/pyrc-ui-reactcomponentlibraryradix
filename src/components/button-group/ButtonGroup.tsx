@@ -1,11 +1,10 @@
 import React from "react"
 
+import { Alignment } from "../../types"
 import * as Styled from "./styled"
 
-export type ButtonGroupAlignment = "start" | "center" | "end"
-
 export type ButtonGroupProps = React.HTMLAttributes<HTMLDivElement> & {
-  align: ButtonGroupAlignment
+  align: Alignment
 }
 
 export const ButtonGroup: React.FC<ButtonGroupProps> = (props) => {
